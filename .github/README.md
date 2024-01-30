@@ -22,7 +22,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-blue.svg?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/DE_WM)
 
   </div>
-
+  
+## Install Command
 git clone https://github.com/HighBlacK/NvChad_personal_settings ~/.config/nvim --depth 1 && nvim
 
 
