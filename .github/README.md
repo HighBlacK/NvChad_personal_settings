@@ -23,6 +23,9 @@
 
   </div>
 
+git clone https://github.com/HighBlacK/NvChad_personal_settings ~/.config/nvim --depth 1 && nvim
+
+
 ## Showcase
 
 <img src="https://nvchad.com/features/nvdash.webp">
